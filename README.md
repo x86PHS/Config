@@ -14,4 +14,15 @@
   chmod +x tools.sh
  ./tools.sh
 ```
-    
+## Tools
+
+#### Git, make, Gcc
+
+```bash
+apt-get --assume-yes install git make gcc
+```
+#### Net Tools
+
+```bash
+apt install net-tools
+```
