@@ -12,15 +12,13 @@
   chmod +x tools.sh
  ./tools.sh
 ```
-## Tools
+## Utility Tools
+- git
+- make
+- gcc
+- zsh
 
-#### Git, make, Gcc
-
-```bash
-apt-get --assume-yes install git make gcc
-```
-#### Net Tools
-
-```bash
-apt install net-tools
-```
+## Net Tools
+- net-tools
+- tcpdump
+- wireshark
