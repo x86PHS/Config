@@ -12,3 +12,9 @@
 - net-tools
 - tcpdump
 - wireshark
+
+## Languages
+- Java
+- Golang
+- Python
+- Assembly
