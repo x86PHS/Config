@@ -1,5 +1,5 @@
   
-## Configs
+## Specs
 - System: Ubuntu 24.04.3 ADM64.
 
 ## Utility Tools
