@@ -7,6 +7,7 @@
 - make
 - gcc
 - zsh
+- nasm
 
 ## Net Tools
 - net-tools
