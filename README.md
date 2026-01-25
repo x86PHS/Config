@@ -1,2 +1,3 @@
-# Tools File Configuration
-- The Repository intends to configure Linux for Hacking and Bug Bounty.
+# Configuration Files
+
+- Este repositório tem como intuito armazenar arquivos de configuração das minhas máquinas com distro linux.
